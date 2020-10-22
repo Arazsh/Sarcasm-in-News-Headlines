@@ -12,5 +12,9 @@ The next step is tokenizing the words in the sentences. The analysis shows that 
 
 ## Downloading the GloVe
 
-GloVe is an unsupervised learning algorithm for obtaining vector representations for words. Training is performed on aggregated global word-word co-occurrence statistics from a corpus, and the resulting representations showcase interesting linear substructures of the word vector space [[Ref](https://nlp.stanford.edu/pubs/glove.pdf)].To improve the ability of the model to detect the semantic in the news headlines, the 100 dimension version of Global Vectors for Word Representation (GloVe), which is provided by Stanford Natural Language Processing Group, is utilized for embedding the tokenized sentences.
+Global Vectors for Word Representation (GloVe) is an unsupervised learning algorithm for obtaining vector representations for words. Training is performed on aggregated global word-word co-occurrence statistics from a corpus, and the resulting representations display interesting linear substructures of the word vector space [[Ref](https://nlp.stanford.edu/pubs/glove.pdf)].To improve the ability of the model to detect the semantic in the news headlines, the 100 dimension version of GloVe 6B (vocab size = 400k), which is provided by Stanford Natural Language Processing Group, is utilized for embedding the tokenized sentences. The direct linke is provided by Laurence Moroney.
+
+## 
+
+
 
