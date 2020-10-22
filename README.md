@@ -23,3 +23,5 @@ Next, to make the training and validation sequences usable by the model, they ar
 
 Finally, the variations of accuracy and loss versus epochs for both training and validation sets are plotted. The plots are as follows:
 
+![alt text](https://github.com/Arazsh/Sarcasm-in-News-Headlines/blob/media/image1.png?raw=true)
+
